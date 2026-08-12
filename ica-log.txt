@@ -1,0 +1,695 @@
+Found file data/filtered-referenced-eeg/sub-032-task-eeg_filtered-referenced.fif
+Excluding index 0 from 32 because label is channel noise
+Excluding index 1 from 32 because label is eye blink
+Excluding index 2 from 32 because label is eye blink
+Excluding index 6 from 32 because label is muscle artifact
+Excluding index 7 from 32 because label is line noise
+Excluding index 9 from 32 because label is muscle artifact
+Excluding index 10 from 32 because label is muscle artifact
+Excluding index 11 from 32 because label is muscle artifact
+Excluding index 12 from 32 because label is muscle artifact
+Excluding index 14 from 32 because label is muscle artifact
+Excluding index 15 from 32 because label is muscle artifact
+Excluding index 17 from 32 because label is muscle artifact
+Excluding index 18 from 32 because label is other
+Excluding index 19 from 32 because label is muscle artifact
+Excluding index 21 from 32 because label is muscle artifact
+Excluding index 22 from 32 because label is muscle artifact
+Excluding index 24 from 32 because label is muscle artifact
+Excluding index 25 from 32 because label is muscle artifact
+Excluding index 26 from 32 because label is other
+Excluding index 27 from 32 because label is muscle artifact
+Excluding index 28 from 32 because label is eye blink
+Excluding index 30 from 32 because label is other
+Excluding index 31 from 32 because label is muscle artifact
+Excluding index 32 from 32 because label is muscle artifact
+For participant 32, we are excluding components [0, 1, 2, 6, 7, 9, 10, 11, 12, 14, 15, 17, 18, 19, 21, 22, 24, 25, 26, 27, 28, 30, 31, 32]
+@ Saved file data/ica-excluded-eeg/sub-032-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-033-task-eeg_filtered-referenced.fif
+Excluding index 0 from 33 because label is eye blink
+Excluding index 1 from 33 because label is eye blink
+Excluding index 2 from 33 because label is eye blink
+Excluding index 3 from 33 because label is eye blink
+Excluding index 4 from 33 because label is eye blink
+Excluding index 5 from 33 because label is eye blink
+Excluding index 6 from 33 because label is eye blink
+Excluding index 7 from 33 because label is other
+Excluding index 9 from 33 because label is muscle artifact
+Excluding index 11 from 33 because label is muscle artifact
+Excluding index 12 from 33 because label is other
+Excluding index 13 from 33 because label is muscle artifact
+Excluding index 14 from 33 because label is muscle artifact
+Excluding index 15 from 33 because label is line noise
+Excluding index 17 from 33 because label is muscle artifact
+Excluding index 18 from 33 because label is other
+Excluding index 19 from 33 because label is muscle artifact
+Excluding index 21 from 33 because label is channel noise
+Excluding index 22 from 33 because label is other
+Excluding index 23 from 33 because label is other
+Excluding index 24 from 33 because label is eye blink
+Excluding index 25 from 33 because label is muscle artifact
+Excluding index 26 from 33 because label is channel noise
+Excluding index 27 from 33 because label is channel noise
+Excluding index 28 from 33 because label is other
+For participant 33, we are excluding components [0, 1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28]
+@ Saved file data/ica-excluded-eeg/sub-033-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-034-task-eeg_filtered-referenced.fif
+Excluding index 0 from 34 because label is eye blink
+Excluding index 1 from 34 because label is eye blink
+Excluding index 10 from 34 because label is muscle artifact
+Excluding index 12 from 34 because label is muscle artifact
+Excluding index 13 from 34 because label is muscle artifact
+Excluding index 14 from 34 because label is eye blink
+Excluding index 15 from 34 because label is eye blink
+Excluding index 16 from 34 because label is other
+Excluding index 17 from 34 because label is line noise
+Excluding index 18 from 34 because label is other
+Excluding index 19 from 34 because label is other
+Excluding index 20 from 34 because label is eye blink
+Excluding index 21 from 34 because label is muscle artifact
+Excluding index 22 from 34 because label is eye blink
+Excluding index 24 from 34 because label is other
+Excluding index 25 from 34 because label is muscle artifact
+For participant 34, we are excluding components [0, 1, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25]
+@ Saved file data/ica-excluded-eeg/sub-034-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-035-task-eeg_filtered-referenced.fif
+Excluding index 0 from 35 because label is eye blink
+Excluding index 1 from 35 because label is eye blink
+Excluding index 2 from 35 because label is eye blink
+Excluding index 7 from 35 because label is channel noise
+Excluding index 8 from 35 because label is channel noise
+Excluding index 9 from 35 because label is muscle artifact
+Excluding index 11 from 35 because label is other
+Excluding index 13 from 35 because label is muscle artifact
+Excluding index 16 from 35 because label is muscle artifact
+Excluding index 17 from 35 because label is other
+Excluding index 19 from 35 because label is channel noise
+Excluding index 20 from 35 because label is muscle artifact
+Excluding index 21 from 35 because label is channel noise
+Excluding index 22 from 35 because label is channel noise
+For participant 35, we are excluding components [0, 1, 2, 7, 8, 9, 11, 13, 16, 17, 19, 20, 21, 22]
+@ Saved file data/ica-excluded-eeg/sub-035-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-036-task-eeg_filtered-referenced.fif
+Excluding index 0 from 36 because label is eye blink
+Excluding index 3 from 36 because label is eye blink
+Excluding index 14 from 36 because label is line noise
+Excluding index 15 from 36 because label is muscle artifact
+Excluding index 16 from 36 because label is other
+Excluding index 18 from 36 because label is muscle artifact
+Excluding index 19 from 36 because label is muscle artifact
+Excluding index 20 from 36 because label is eye blink
+Excluding index 21 from 36 because label is other
+Excluding index 23 from 36 because label is muscle artifact
+Excluding index 25 from 36 because label is muscle artifact
+Excluding index 26 from 36 because label is muscle artifact
+Excluding index 27 from 36 because label is other
+Excluding index 28 from 36 because label is muscle artifact
+For participant 36, we are excluding components [0, 3, 14, 15, 16, 18, 19, 20, 21, 23, 25, 26, 27, 28]
+@ Saved file data/ica-excluded-eeg/sub-036-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-038-task-eeg_filtered-referenced.fif
+Excluding index 0 from 38 because label is eye blink
+Excluding index 1 from 38 because label is eye blink
+Excluding index 2 from 38 because label is eye blink
+Excluding index 3 from 38 because label is other
+Excluding index 5 from 38 because label is muscle artifact
+Excluding index 6 from 38 because label is muscle artifact
+Excluding index 9 from 38 because label is eye blink
+Excluding index 11 from 38 because label is muscle artifact
+Excluding index 12 from 38 because label is eye blink
+Excluding index 13 from 38 because label is muscle artifact
+Excluding index 14 from 38 because label is other
+Excluding index 16 from 38 because label is muscle artifact
+Excluding index 18 from 38 because label is muscle artifact
+Excluding index 19 from 38 because label is line noise
+Excluding index 20 from 38 because label is muscle artifact
+Excluding index 21 from 38 because label is muscle artifact
+Excluding index 22 from 38 because label is muscle artifact
+Excluding index 23 from 38 because label is other
+For participant 38, we are excluding components [0, 1, 2, 3, 5, 6, 9, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22, 23]
+@ Saved file data/ica-excluded-eeg/sub-038-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-039-task-eeg_filtered-referenced.fif
+Excluding index 0 from 39 because label is eye blink
+Excluding index 1 from 39 because label is eye blink
+Excluding index 2 from 39 because label is eye blink
+Excluding index 3 from 39 because label is eye blink
+Excluding index 4 from 39 because label is eye blink
+Excluding index 5 from 39 because label is other
+Excluding index 6 from 39 because label is eye blink
+Excluding index 7 from 39 because label is eye blink
+Excluding index 8 from 39 because label is eye blink
+Excluding index 9 from 39 because label is eye blink
+Excluding index 10 from 39 because label is eye blink
+Excluding index 13 from 39 because label is other
+Excluding index 14 from 39 because label is muscle artifact
+Excluding index 16 from 39 because label is muscle artifact
+Excluding index 17 from 39 because label is line noise
+Excluding index 18 from 39 because label is muscle artifact
+For participant 39, we are excluding components [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 16, 17, 18]
+@ Saved file data/ica-excluded-eeg/sub-039-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-040-task-eeg_filtered-referenced.fif
+Excluding index 0 from 40 because label is eye blink
+Excluding index 5 from 40 because label is eye blink
+Excluding index 9 from 40 because label is muscle artifact
+Excluding index 11 from 40 because label is line noise
+Excluding index 13 from 40 because label is muscle artifact
+Excluding index 14 from 40 because label is muscle artifact
+Excluding index 16 from 40 because label is muscle artifact
+Excluding index 17 from 40 because label is muscle artifact
+Excluding index 19 from 40 because label is muscle artifact
+Excluding index 20 from 40 because label is muscle artifact
+Excluding index 21 from 40 because label is muscle artifact
+Excluding index 22 from 40 because label is muscle artifact
+Excluding index 23 from 40 because label is other
+Excluding index 24 from 40 because label is line noise
+Excluding index 25 from 40 because label is other
+Excluding index 26 from 40 because label is muscle artifact
+Excluding index 27 from 40 because label is other
+Excluding index 28 from 40 because label is muscle artifact
+Excluding index 29 from 40 because label is other
+Excluding index 30 from 40 because label is muscle artifact
+For participant 40, we are excluding components [0, 5, 9, 11, 13, 14, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+@ Saved file data/ica-excluded-eeg/sub-040-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-041-task-eeg_filtered-referenced.fif
+Excluding index 0 from 41 because label is eye blink
+Excluding index 1 from 41 because label is eye blink
+Excluding index 2 from 41 because label is eye blink
+Excluding index 3 from 41 because label is eye blink
+Excluding index 4 from 41 because label is other
+Excluding index 5 from 41 because label is eye blink
+Excluding index 6 from 41 because label is eye blink
+Excluding index 8 from 41 because label is other
+Excluding index 11 from 41 because label is muscle artifact
+Excluding index 12 from 41 because label is line noise
+Excluding index 15 from 41 because label is muscle artifact
+Excluding index 16 from 41 because label is eye blink
+Excluding index 17 from 41 because label is muscle artifact
+Excluding index 18 from 41 because label is other
+Excluding index 20 from 41 because label is muscle artifact
+Excluding index 21 from 41 because label is muscle artifact
+Excluding index 22 from 41 because label is muscle artifact
+Excluding index 23 from 41 because label is muscle artifact
+Excluding index 24 from 41 because label is other
+Excluding index 25 from 41 because label is other
+Excluding index 26 from 41 because label is muscle artifact
+Excluding index 27 from 41 because label is muscle artifact
+For participant 41, we are excluding components [0, 1, 2, 3, 4, 5, 6, 8, 11, 12, 15, 16, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27]
+@ Saved file data/ica-excluded-eeg/sub-041-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-042-task-eeg_filtered-referenced.fif
+Excluding index 0 from 42 because label is eye blink
+Excluding index 1 from 42 because label is eye blink
+Excluding index 2 from 42 because label is eye blink
+Excluding index 9 from 42 because label is eye blink
+Excluding index 10 from 42 because label is muscle artifact
+Excluding index 12 from 42 because label is other
+Excluding index 13 from 42 because label is line noise
+Excluding index 15 from 42 because label is muscle artifact
+For participant 42, we are excluding components [0, 1, 2, 9, 10, 12, 13, 15]
+@ Saved file data/ica-excluded-eeg/sub-042-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-043-task-eeg_filtered-referenced.fif
+Excluding index 0 from 43 because label is eye blink
+Excluding index 6 from 43 because label is eye blink
+Excluding index 8 from 43 because label is eye blink
+Excluding index 13 from 43 because label is muscle artifact
+Excluding index 14 from 43 because label is muscle artifact
+Excluding index 17 from 43 because label is line noise
+Excluding index 18 from 43 because label is muscle artifact
+Excluding index 19 from 43 because label is muscle artifact
+Excluding index 20 from 43 because label is muscle artifact
+Excluding index 22 from 43 because label is muscle artifact
+Excluding index 23 from 43 because label is eye blink
+Excluding index 24 from 43 because label is other
+Excluding index 25 from 43 because label is muscle artifact
+Excluding index 26 from 43 because label is eye blink
+Excluding index 28 from 43 because label is muscle artifact
+Excluding index 29 from 43 because label is muscle artifact
+Excluding index 30 from 43 because label is muscle artifact
+Excluding index 32 from 43 because label is eye blink
+Excluding index 34 from 43 because label is muscle artifact
+For participant 43, we are excluding components [0, 6, 8, 13, 14, 17, 18, 19, 20, 22, 23, 24, 25, 26, 28, 29, 30, 32, 34]
+@ Saved file data/ica-excluded-eeg/sub-043-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-044-task-eeg_filtered-referenced.fif
+Excluding index 0 from 44 because label is eye blink
+Excluding index 1 from 44 because label is eye blink
+Excluding index 5 from 44 because label is line noise
+Excluding index 7 from 44 because label is muscle artifact
+Excluding index 12 from 44 because label is muscle artifact
+Excluding index 16 from 44 because label is muscle artifact
+Excluding index 17 from 44 because label is muscle artifact
+Excluding index 18 from 44 because label is eye blink
+Excluding index 19 from 44 because label is other
+Excluding index 20 from 44 because label is eye blink
+Excluding index 21 from 44 because label is other
+Excluding index 22 from 44 because label is other
+Excluding index 23 from 44 because label is other
+Excluding index 24 from 44 because label is muscle artifact
+Excluding index 25 from 44 because label is muscle artifact
+Excluding index 26 from 44 because label is muscle artifact
+Excluding index 27 from 44 because label is muscle artifact
+For participant 44, we are excluding components [0, 1, 5, 7, 12, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+@ Saved file data/ica-excluded-eeg/sub-044-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-045-task-eeg_filtered-referenced.fif
+Excluding index 0 from 45 because label is eye blink
+Excluding index 1 from 45 because label is eye blink
+Excluding index 2 from 45 because label is channel noise
+Excluding index 4 from 45 because label is eye blink
+Excluding index 6 from 45 because label is eye blink
+Excluding index 7 from 45 because label is channel noise
+Excluding index 9 from 45 because label is eye blink
+Excluding index 11 from 45 because label is other
+Excluding index 12 from 45 because label is other
+Excluding index 14 from 45 because label is other
+Excluding index 15 from 45 because label is muscle artifact
+Excluding index 16 from 45 because label is other
+Excluding index 17 from 45 because label is other
+Excluding index 18 from 45 because label is other
+For participant 45, we are excluding components [0, 1, 2, 4, 6, 7, 9, 11, 12, 14, 15, 16, 17, 18]
+@ Saved file data/ica-excluded-eeg/sub-045-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-046-task-eeg_filtered-referenced.fif
+Excluding index 0 from 46 because label is channel noise
+Excluding index 1 from 46 because label is eye blink
+Excluding index 2 from 46 because label is eye blink
+Excluding index 3 from 46 because label is other
+Excluding index 8 from 46 because label is other
+Excluding index 9 from 46 because label is heart beat
+Excluding index 14 from 46 because label is channel noise
+Excluding index 16 from 46 because label is muscle artifact
+Excluding index 18 from 46 because label is muscle artifact
+Excluding index 20 from 46 because label is muscle artifact
+Excluding index 21 from 46 because label is heart beat
+Excluding index 22 from 46 because label is eye blink
+Excluding index 23 from 46 because label is other
+Excluding index 24 from 46 because label is other
+Excluding index 25 from 46 because label is other
+Excluding index 26 from 46 because label is other
+Excluding index 27 from 46 because label is muscle artifact
+Excluding index 28 from 46 because label is muscle artifact
+Excluding index 29 from 46 because label is channel noise
+Excluding index 30 from 46 because label is muscle artifact
+Excluding index 31 from 46 because label is channel noise
+Excluding index 32 from 46 because label is heart beat
+Excluding index 33 from 46 because label is other
+For participant 46, we are excluding components [0, 1, 2, 3, 8, 9, 14, 16, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
+@ Saved file data/ica-excluded-eeg/sub-046-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-047-task-eeg_filtered-referenced.fif
+Excluding index 0 from 47 because label is eye blink
+Excluding index 1 from 47 because label is eye blink
+Excluding index 2 from 47 because label is eye blink
+Excluding index 4 from 47 because label is muscle artifact
+Excluding index 5 from 47 because label is muscle artifact
+Excluding index 11 from 47 because label is muscle artifact
+Excluding index 13 from 47 because label is channel noise
+Excluding index 14 from 47 because label is muscle artifact
+Excluding index 16 from 47 because label is muscle artifact
+Excluding index 17 from 47 because label is muscle artifact
+Excluding index 18 from 47 because label is muscle artifact
+Excluding index 19 from 47 because label is other
+Excluding index 20 from 47 because label is muscle artifact
+Excluding index 21 from 47 because label is other
+Excluding index 22 from 47 because label is muscle artifact
+Excluding index 23 from 47 because label is other
+Excluding index 25 from 47 because label is other
+Excluding index 26 from 47 because label is muscle artifact
+Excluding index 27 from 47 because label is other
+For participant 47, we are excluding components [0, 1, 2, 4, 5, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27]
+@ Saved file data/ica-excluded-eeg/sub-047-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-048-task-eeg_filtered-referenced.fif
+Excluding index 0 from 48 because label is eye blink
+Excluding index 1 from 48 because label is eye blink
+Excluding index 3 from 48 because label is eye blink
+Excluding index 5 from 48 because label is eye blink
+Excluding index 7 from 48 because label is other
+Excluding index 9 from 48 because label is eye blink
+Excluding index 11 from 48 because label is eye blink
+Excluding index 13 from 48 because label is other
+Excluding index 16 from 48 because label is other
+Excluding index 17 from 48 because label is muscle artifact
+Excluding index 20 from 48 because label is line noise
+Excluding index 21 from 48 because label is muscle artifact
+Excluding index 22 from 48 because label is muscle artifact
+Excluding index 23 from 48 because label is muscle artifact
+Excluding index 26 from 48 because label is other
+Excluding index 27 from 48 because label is eye blink
+Excluding index 28 from 48 because label is other
+Excluding index 29 from 48 because label is other
+Excluding index 30 from 48 because label is other
+Excluding index 31 from 48 because label is eye blink
+Excluding index 33 from 48 because label is channel noise
+Excluding index 34 from 48 because label is eye blink
+Excluding index 35 from 48 because label is channel noise
+For participant 48, we are excluding components [0, 1, 3, 5, 7, 9, 11, 13, 16, 17, 20, 21, 22, 23, 26, 27, 28, 29, 30, 31, 33, 34, 35]
+@ Saved file data/ica-excluded-eeg/sub-048-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-049-task-eeg_filtered-referenced.fif
+Excluding index 0 from 49 because label is eye blink
+Excluding index 1 from 49 because label is eye blink
+Excluding index 2 from 49 because label is muscle artifact
+Excluding index 4 from 49 because label is eye blink
+Excluding index 5 from 49 because label is muscle artifact
+Excluding index 8 from 49 because label is muscle artifact
+Excluding index 9 from 49 because label is muscle artifact
+Excluding index 11 from 49 because label is muscle artifact
+Excluding index 12 from 49 because label is muscle artifact
+Excluding index 13 from 49 because label is muscle artifact
+Excluding index 14 from 49 because label is muscle artifact
+Excluding index 15 from 49 because label is muscle artifact
+Excluding index 16 from 49 because label is muscle artifact
+Excluding index 17 from 49 because label is muscle artifact
+Excluding index 18 from 49 because label is muscle artifact
+Excluding index 19 from 49 because label is eye blink
+Excluding index 20 from 49 because label is line noise
+Excluding index 21 from 49 because label is muscle artifact
+For participant 49, we are excluding components [0, 1, 2, 4, 5, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+@ Saved file data/ica-excluded-eeg/sub-049-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-050-task-eeg_filtered-referenced.fif
+Excluding index 0 from 50 because label is eye blink
+Excluding index 1 from 50 because label is eye blink
+Excluding index 2 from 50 because label is eye blink
+Excluding index 3 from 50 because label is eye blink
+Excluding index 5 from 50 because label is eye blink
+Excluding index 6 from 50 because label is other
+Excluding index 10 from 50 because label is muscle artifact
+Excluding index 12 from 50 because label is muscle artifact
+Excluding index 13 from 50 because label is muscle artifact
+Excluding index 14 from 50 because label is other
+Excluding index 15 from 50 because label is muscle artifact
+Excluding index 16 from 50 because label is channel noise
+Excluding index 17 from 50 because label is heart beat
+Excluding index 18 from 50 because label is muscle artifact
+For participant 50, we are excluding components [0, 1, 2, 3, 5, 6, 10, 12, 13, 14, 15, 16, 17, 18]
+@ Saved file data/ica-excluded-eeg/sub-050-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-051-task-eeg_filtered-referenced.fif
+Excluding index 0 from 51 because label is eye blink
+Excluding index 1 from 51 because label is eye blink
+Excluding index 2 from 51 because label is other
+Excluding index 6 from 51 because label is muscle artifact
+Excluding index 8 from 51 because label is muscle artifact
+Excluding index 11 from 51 because label is muscle artifact
+Excluding index 12 from 51 because label is line noise
+Excluding index 13 from 51 because label is muscle artifact
+Excluding index 14 from 51 because label is muscle artifact
+Excluding index 15 from 51 because label is muscle artifact
+Excluding index 16 from 51 because label is muscle artifact
+Excluding index 17 from 51 because label is muscle artifact
+Excluding index 18 from 51 because label is muscle artifact
+Excluding index 20 from 51 because label is other
+Excluding index 22 from 51 because label is eye blink
+Excluding index 23 from 51 because label is other
+Excluding index 24 from 51 because label is muscle artifact
+Excluding index 25 from 51 because label is muscle artifact
+Excluding index 27 from 51 because label is muscle artifact
+Excluding index 28 from 51 because label is muscle artifact
+Excluding index 29 from 51 because label is other
+Excluding index 30 from 51 because label is muscle artifact
+Excluding index 31 from 51 because label is muscle artifact
+Excluding index 32 from 51 because label is muscle artifact
+For participant 51, we are excluding components [0, 1, 2, 6, 8, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32]
+@ Saved file data/ica-excluded-eeg/sub-051-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-052-task-eeg_filtered-referenced.fif
+Excluding index 0 from 52 because label is eye blink
+Excluding index 1 from 52 because label is eye blink
+Excluding index 3 from 52 because label is muscle artifact
+Excluding index 4 from 52 because label is muscle artifact
+Excluding index 12 from 52 because label is line noise
+Excluding index 13 from 52 because label is eye blink
+Excluding index 14 from 52 because label is other
+Excluding index 15 from 52 because label is muscle artifact
+Excluding index 16 from 52 because label is other
+Excluding index 17 from 52 because label is other
+Excluding index 18 from 52 because label is channel noise
+Excluding index 19 from 52 because label is muscle artifact
+Excluding index 20 from 52 because label is other
+Excluding index 21 from 52 because label is muscle artifact
+Excluding index 22 from 52 because label is other
+Excluding index 23 from 52 because label is other
+Excluding index 24 from 52 because label is other
+For participant 52, we are excluding components [0, 1, 3, 4, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+@ Saved file data/ica-excluded-eeg/sub-052-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-053-task-eeg_filtered-referenced.fif
+Excluding index 0 from 53 because label is eye blink
+Excluding index 2 from 53 because label is other
+Excluding index 3 from 53 because label is eye blink
+Excluding index 4 from 53 because label is other
+Excluding index 5 from 53 because label is eye blink
+Excluding index 6 from 53 because label is channel noise
+Excluding index 7 from 53 because label is other
+Excluding index 10 from 53 because label is other
+Excluding index 12 from 53 because label is muscle artifact
+Excluding index 17 from 53 because label is muscle artifact
+Excluding index 18 from 53 because label is muscle artifact
+Excluding index 20 from 53 because label is channel noise
+Excluding index 21 from 53 because label is channel noise
+Excluding index 22 from 53 because label is muscle artifact
+Excluding index 23 from 53 because label is muscle artifact
+Excluding index 24 from 53 because label is muscle artifact
+Excluding index 25 from 53 because label is channel noise
+Excluding index 26 from 53 because label is other
+Excluding index 27 from 53 because label is eye blink
+Excluding index 28 from 53 because label is muscle artifact
+Excluding index 29 from 53 because label is muscle artifact
+Excluding index 30 from 53 because label is eye blink
+Excluding index 31 from 53 because label is channel noise
+Excluding index 32 from 53 because label is eye blink
+Excluding index 33 from 53 because label is muscle artifact
+Excluding index 34 from 53 because label is line noise
+Excluding index 36 from 53 because label is channel noise
+Excluding index 37 from 53 because label is muscle artifact
+Excluding index 38 from 53 because label is other
+Excluding index 39 from 53 because label is muscle artifact
+Excluding index 41 from 53 because label is other
+For participant 53, we are excluding components [0, 2, 3, 4, 5, 6, 7, 10, 12, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 41]
+@ Saved file data/ica-excluded-eeg/sub-053-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-054-task-eeg_filtered-referenced.fif
+Excluding index 0 from 54 because label is eye blink
+Excluding index 1 from 54 because label is channel noise
+Excluding index 2 from 54 because label is eye blink
+Excluding index 9 from 54 because label is channel noise
+Excluding index 10 from 54 because label is eye blink
+Excluding index 11 from 54 because label is muscle artifact
+Excluding index 12 from 54 because label is line noise
+Excluding index 13 from 54 because label is eye blink
+Excluding index 15 from 54 because label is muscle artifact
+Excluding index 16 from 54 because label is muscle artifact
+Excluding index 17 from 54 because label is other
+Excluding index 18 from 54 because label is muscle artifact
+Excluding index 19 from 54 because label is muscle artifact
+Excluding index 21 from 54 because label is channel noise
+Excluding index 22 from 54 because label is muscle artifact
+Excluding index 24 from 54 because label is other
+Excluding index 25 from 54 because label is muscle artifact
+Excluding index 26 from 54 because label is muscle artifact
+Excluding index 27 from 54 because label is muscle artifact
+Excluding index 28 from 54 because label is other
+For participant 54, we are excluding components [0, 1, 2, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 21, 22, 24, 25, 26, 27, 28]
+@ Saved file data/ica-excluded-eeg/sub-054-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-055-task-eeg_filtered-referenced.fif
+Excluding index 0 from 55 because label is eye blink
+Excluding index 1 from 55 because label is eye blink
+Excluding index 7 from 55 because label is muscle artifact
+Excluding index 8 from 55 because label is muscle artifact
+Excluding index 9 from 55 because label is line noise
+Excluding index 10 from 55 because label is other
+Excluding index 12 from 55 because label is other
+Excluding index 13 from 55 because label is muscle artifact
+Excluding index 14 from 55 because label is eye blink
+Excluding index 15 from 55 because label is muscle artifact
+Excluding index 16 from 55 because label is muscle artifact
+Excluding index 17 from 55 because label is muscle artifact
+Excluding index 19 from 55 because label is channel noise
+Excluding index 20 from 55 because label is other
+Excluding index 21 from 55 because label is muscle artifact
+Excluding index 23 from 55 because label is muscle artifact
+Excluding index 24 from 55 because label is other
+Excluding index 25 from 55 because label is muscle artifact
+Excluding index 26 from 55 because label is other
+Excluding index 27 from 55 because label is muscle artifact
+Excluding index 28 from 55 because label is other
+Excluding index 29 from 55 because label is other
+Excluding index 30 from 55 because label is muscle artifact
+Excluding index 31 from 55 because label is muscle artifact
+Excluding index 32 from 55 because label is channel noise
+For participant 55, we are excluding components [0, 1, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+@ Saved file data/ica-excluded-eeg/sub-055-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-056-task-eeg_filtered-referenced.fif
+Excluding index 0 from 56 because label is eye blink
+Excluding index 2 from 56 because label is eye blink
+Excluding index 3 from 56 because label is eye blink
+Excluding index 4 from 56 because label is eye blink
+Excluding index 5 from 56 because label is eye blink
+Excluding index 6 from 56 because label is eye blink
+Excluding index 9 from 56 because label is eye blink
+Excluding index 11 from 56 because label is other
+Excluding index 15 from 56 because label is channel noise
+Excluding index 18 from 56 because label is muscle artifact
+Excluding index 19 from 56 because label is other
+Excluding index 20 from 56 because label is muscle artifact
+Excluding index 21 from 56 because label is line noise
+Excluding index 22 from 56 because label is muscle artifact
+Excluding index 23 from 56 because label is other
+Excluding index 26 from 56 because label is muscle artifact
+Excluding index 28 from 56 because label is muscle artifact
+For participant 56, we are excluding components [0, 2, 3, 4, 5, 6, 9, 11, 15, 18, 19, 20, 21, 22, 23, 26, 28]
+@ Saved file data/ica-excluded-eeg/sub-056-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-057-task-eeg_filtered-referenced.fif
+Excluding index 0 from 57 because label is eye blink
+Excluding index 1 from 57 because label is eye blink
+Excluding index 3 from 57 because label is line noise
+Excluding index 7 from 57 because label is muscle artifact
+Excluding index 13 from 57 because label is muscle artifact
+Excluding index 14 from 57 because label is other
+Excluding index 15 from 57 because label is other
+Excluding index 17 from 57 because label is other
+Excluding index 18 from 57 because label is muscle artifact
+Excluding index 19 from 57 because label is channel noise
+Excluding index 20 from 57 because label is muscle artifact
+For participant 57, we are excluding components [0, 1, 3, 7, 13, 14, 15, 17, 18, 19, 20]
+@ Saved file data/ica-excluded-eeg/sub-057-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-058-task-eeg_filtered-referenced.fif
+Excluding index 0 from 58 because label is eye blink
+Excluding index 1 from 58 because label is eye blink
+Excluding index 5 from 58 because label is eye blink
+Excluding index 8 from 58 because label is muscle artifact
+Excluding index 9 from 58 because label is muscle artifact
+Excluding index 10 from 58 because label is line noise
+Excluding index 11 from 58 because label is muscle artifact
+Excluding index 13 from 58 because label is muscle artifact
+Excluding index 14 from 58 because label is eye blink
+Excluding index 15 from 58 because label is muscle artifact
+Excluding index 16 from 58 because label is muscle artifact
+Excluding index 17 from 58 because label is other
+Excluding index 18 from 58 because label is other
+Excluding index 19 from 58 because label is other
+Excluding index 20 from 58 because label is muscle artifact
+Excluding index 21 from 58 because label is other
+Excluding index 22 from 58 because label is eye blink
+Excluding index 23 from 58 because label is other
+Excluding index 24 from 58 because label is other
+Excluding index 25 from 58 because label is channel noise
+For participant 58, we are excluding components [0, 1, 5, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+@ Saved file data/ica-excluded-eeg/sub-058-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-059-task-eeg_filtered-referenced.fif
+Excluding index 0 from 59 because label is channel noise
+Excluding index 1 from 59 because label is eye blink
+Excluding index 2 from 59 because label is other
+Excluding index 3 from 59 because label is eye blink
+Excluding index 5 from 59 because label is muscle artifact
+Excluding index 6 from 59 because label is other
+For participant 59, we are excluding components [0, 1, 2, 3, 5, 6]
+@ Saved file data/ica-excluded-eeg/sub-059-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-060-task-eeg_filtered-referenced.fif
+Excluding index 0 from 60 because label is eye blink
+Excluding index 1 from 60 because label is eye blink
+Excluding index 4 from 60 because label is muscle artifact
+Excluding index 6 from 60 because label is muscle artifact
+Excluding index 8 from 60 because label is line noise
+Excluding index 9 from 60 because label is muscle artifact
+Excluding index 11 from 60 because label is muscle artifact
+Excluding index 12 from 60 because label is muscle artifact
+Excluding index 13 from 60 because label is muscle artifact
+Excluding index 14 from 60 because label is muscle artifact
+Excluding index 15 from 60 because label is eye blink
+Excluding index 18 from 60 because label is muscle artifact
+Excluding index 19 from 60 because label is muscle artifact
+Excluding index 20 from 60 because label is other
+Excluding index 23 from 60 because label is muscle artifact
+Excluding index 24 from 60 because label is other
+Excluding index 25 from 60 because label is muscle artifact
+Excluding index 26 from 60 because label is muscle artifact
+Excluding index 27 from 60 because label is eye blink
+Excluding index 28 from 60 because label is channel noise
+For participant 60, we are excluding components [0, 1, 4, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20, 23, 24, 25, 26, 27, 28]
+@ Saved file data/ica-excluded-eeg/sub-060-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-061-task-eeg_filtered-referenced.fif
+Excluding index 0 from 61 because label is eye blink
+Excluding index 1 from 61 because label is eye blink
+Excluding index 2 from 61 because label is eye blink
+Excluding index 4 from 61 because label is muscle artifact
+Excluding index 5 from 61 because label is eye blink
+Excluding index 6 from 61 because label is other
+Excluding index 7 from 61 because label is muscle artifact
+Excluding index 8 from 61 because label is muscle artifact
+Excluding index 12 from 61 because label is channel noise
+Excluding index 13 from 61 because label is muscle artifact
+Excluding index 14 from 61 because label is muscle artifact
+Excluding index 16 from 61 because label is eye blink
+Excluding index 17 from 61 because label is muscle artifact
+Excluding index 18 from 61 because label is muscle artifact
+Excluding index 20 from 61 because label is muscle artifact
+Excluding index 21 from 61 because label is muscle artifact
+Excluding index 22 from 61 because label is muscle artifact
+Excluding index 23 from 61 because label is eye blink
+Excluding index 24 from 61 because label is muscle artifact
+Excluding index 25 from 61 because label is channel noise
+Excluding index 26 from 61 because label is muscle artifact
+For participant 61, we are excluding components [0, 1, 2, 4, 5, 6, 7, 8, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23, 24, 25, 26]
+@ Saved file data/ica-excluded-eeg/sub-061-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-062-task-eeg_filtered-referenced.fif
+Excluding index 0 from 62 because label is eye blink
+Excluding index 1 from 62 because label is eye blink
+Excluding index 2 from 62 because label is eye blink
+Excluding index 4 from 62 because label is muscle artifact
+Excluding index 15 from 62 because label is muscle artifact
+Excluding index 17 from 62 because label is line noise
+Excluding index 18 from 62 because label is other
+Excluding index 19 from 62 because label is muscle artifact
+Excluding index 20 from 62 because label is other
+For participant 62, we are excluding components [0, 1, 2, 4, 15, 17, 18, 19, 20]
+@ Saved file data/ica-excluded-eeg/sub-062-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-063-task-eeg_filtered-referenced.fif
+Error One PCA component captures most of the explained variance (99.23120028178992%), your threshold results in 1 component. You should select a higher value. while trying to apply ICA to participant 63
+Found file data/filtered-referenced-eeg/sub-064-task-eeg_filtered-referenced.fif
+Excluding index 0 from 64 because label is eye blink
+Excluding index 1 from 64 because label is muscle artifact
+Excluding index 2 from 64 because label is eye blink
+Excluding index 3 from 64 because label is other
+Excluding index 4 from 64 because label is eye blink
+Excluding index 5 from 64 because label is muscle artifact
+Excluding index 6 from 64 because label is muscle artifact
+Excluding index 7 from 64 because label is muscle artifact
+Excluding index 8 from 64 because label is muscle artifact
+Excluding index 9 from 64 because label is muscle artifact
+Excluding index 12 from 64 because label is muscle artifact
+Excluding index 13 from 64 because label is muscle artifact
+Excluding index 15 from 64 because label is muscle artifact
+Excluding index 16 from 64 because label is line noise
+Excluding index 17 from 64 because label is other
+Excluding index 19 from 64 because label is other
+Excluding index 20 from 64 because label is muscle artifact
+Excluding index 21 from 64 because label is muscle artifact
+Excluding index 22 from 64 because label is muscle artifact
+Excluding index 23 from 64 because label is muscle artifact
+Excluding index 24 from 64 because label is muscle artifact
+Excluding index 25 from 64 because label is eye blink
+Excluding index 26 from 64 because label is other
+Excluding index 27 from 64 because label is muscle artifact
+Excluding index 28 from 64 because label is muscle artifact
+Excluding index 29 from 64 because label is muscle artifact
+Excluding index 30 from 64 because label is muscle artifact
+Excluding index 31 from 64 because label is other
+Excluding index 32 from 64 because label is line noise
+Excluding index 33 from 64 because label is heart beat
+Excluding index 34 from 64 because label is channel noise
+For participant 64, we are excluding components [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+@ Saved file data/ica-excluded-eeg/sub-064-task-eeg_ica-cleaned.fif
+Found file data/filtered-referenced-eeg/sub-065-task-eeg_filtered-referenced.fif
+Excluding index 0 from 65 because label is eye blink
+Excluding index 1 from 65 because label is eye blink
+Excluding index 2 from 65 because label is eye blink
+Excluding index 5 from 65 because label is muscle artifact
+Excluding index 7 from 65 because label is line noise
+Excluding index 9 from 65 because label is muscle artifact
+Excluding index 10 from 65 because label is muscle artifact
+Excluding index 11 from 65 because label is muscle artifact
+Excluding index 12 from 65 because label is other
+Excluding index 13 from 65 because label is eye blink
+Excluding index 14 from 65 because label is muscle artifact
+Excluding index 15 from 65 because label is muscle artifact
+Excluding index 17 from 65 because label is eye blink
+Excluding index 19 from 65 because label is muscle artifact
+Excluding index 20 from 65 because label is muscle artifact
+Excluding index 21 from 65 because label is muscle artifact
+Excluding index 22 from 65 because label is muscle artifact
+Excluding index 23 from 65 because label is muscle artifact
+Excluding index 24 from 65 because label is muscle artifact
+Excluding index 25 from 65 because label is muscle artifact
+Excluding index 26 from 65 because label is muscle artifact
+For participant 65, we are excluding components [0, 1, 2, 5, 7, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26]
+@ Saved file data/ica-excluded-eeg/sub-065-task-eeg_ica-cleaned.fif
