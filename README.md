@@ -1,2 +1,2 @@
-# 🧠 EEG based classification of Digit-Span Memorization vs. Listening: 
+# 🧠 EEG based classification of Digit-Span Memorization vs. Listening
 
