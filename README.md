@@ -5,6 +5,7 @@
 ### Step 1
 Clone this repository
 ```
+git clone https://github.com/atifmmahmud/cognitive-load-biomarkers.git
 ```
 
 ### Step 2
