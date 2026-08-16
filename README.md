@@ -1,6 +1,10 @@
 # 🧠 EEG based classification of Digit-Span Memorization vs. Listening
 
-## Instructions
+## Welcome!
+
+[YouTube Video](https://youtu.be/dh5WUA-YOuc)
+
+## Try it! Instructions
 
 ### Step 1
 Clone this repository
