@@ -9,8 +9,6 @@ git clone https://github.com/atifmmahmud/cognitive-load-biomarkers.git
 ```
 
 ### Step 2
-
-
 Download the data from [this Google Drive folder](https://drive.google.com/drive/folders/1sJpfs5JYOIJSlfUAt9Lu1buifXTB_5Uf?usp=drive_link). Make sure the `data/` folder is saved at the same level as the notebook. 
 
 ```text
@@ -34,6 +32,12 @@ Download the data from [this Google Drive folder](https://drive.google.com/drive
     |   stimuli/
     |   sub-032/
     |   sub-033/
+```
+
+### Step 3
+Install the requirements
+```
+pip install -r requirements.txt
 ```
 
 ## Acknowledgements
