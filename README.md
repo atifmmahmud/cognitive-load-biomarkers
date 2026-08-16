@@ -32,6 +32,7 @@ Download the data from [this Google Drive folder](https://drive.google.com/drive
         |--- stimuli/
         |--- sub-032/
         |--- sub-033/
+        | <--- folders for all other participants --->
 ```
 
 ### Step 3
