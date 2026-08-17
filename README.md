@@ -4,7 +4,8 @@
 In this project I sought to develop a model that uses electroenephelography (EEG) signals to classify between memorization and listening during a digit span task. This served as a first step towards evaluating the feasibility of using EEG signals in determining cognitive load and supporting the advancement of wearable-based cognitive monitoring.  
   
 I used an available OpenNeuro dataset (Pavlov et al., 2024) for my analysis. The dataset contains 64-channel electroencephalography (EEG), electrocardiography (ECG), photoplethysmography (PPG), and pupillometry data from 86 participants during rest (eyes-closed) and a working-memory task (digit-span with series recall).  
-
+  
+[Streamlit app](https://cognitive-load-biomarkers.streamlit.app/)  
 [YouTube Video](https://youtu.be/dh5WUA-YOuc)
 
 ## Try it!
