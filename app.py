@@ -12,6 +12,8 @@ if "scores_df" not in st.session_state:
     st.session_state.scores_df = pd.DataFrame(columns=["model", "metric", "score"])
 
 st.title("EEG based classification of cognitive load/task")
+st.subheader("Created by")
+st.write("Atif Mahmud")
 st.subheader("About")
 st.write("In this project I sought to develop a model that uses electroenephelography (EEG) signals to classify between memorization and listening during a digit span task. This served as a first step towards evaluating the feasibility of using EEG signals in determining cognitive load and supporting the advancement of wearable-based cognitive monitoring. I used an available OpenNeuro dataset (Pavlov et al., 2024) for my analysis. The dataset contains 64-channel electroencephalography (EEG), electrocardiography (ECG), photoplethysmography (PPG), and pupillometry data from 86 participants during rest (eyes-closed) and a working-memory task (digit-span with series recall).")
 st.subheader("Acknowledgements")
